@@ -1,0 +1,11 @@
+#!/bin/bash
+
+NAME="Joao Pedro"
+
+FILE_NAME="[$NAME]-[$1]"
+
+cat ./Main.java > "$FILE_NAME.txt"
+
+mv *.png "$FILE_NAME.png"
+
+mv *.md "$FILE_NAME-[ChatGPT 4o mini].md"
