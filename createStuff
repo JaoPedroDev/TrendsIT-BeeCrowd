@@ -4,7 +4,7 @@ NAME="Joao Pedro"
 
 FILE_NAME="[$NAME]-[$1]"
 
-cat ./Main.java > "$FILE_NAME.txt"
+cat ./Main.* > "$FILE_NAME.txt"
 
 mv *.png "$FILE_NAME.png"
 
