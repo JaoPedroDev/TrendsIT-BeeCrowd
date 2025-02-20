@@ -1,0 +1,36 @@
+## Resolvidos
+- HelloWorld 1000
+- ExtremamenteBasico 1001
+- TempoDeJogoComMinutos 1047
+- MatrizQuadradaI 1435
+- MatrizQuadradaII 1478
+- Galopeira 2147
+- CidadesEmOrdemAlfabetica 2607
+- PessoasJuridicas 2622
+- AtalhosBloggo 1239
+- FrequenciaDeLetras 1255
+- FrequenciaDeNumeros 1171
+- TDARacional 1022
+- DiamantesEAreia 1069
+- JogandoCartasFora 1110
+- ParesEImpares 1259
+- FilaDoRecreio 1548
+- FibonacciQuantasChamadas 1029
+- Lucro 1310
+- ValorMedioDosProdutos 2610
+- FilmesEmPromocao 2613
+- IdaAFeira 1281
+- Animal 1049
+- JornadaNasEstrelas 1973
+- SequenciaDeSequencias 2028
+- Motoboy 1286
+- Embaralhado 1980
+- OrdenacaoPorTamanho 1244
+- OFantasticoJaspion 1449
+- TecladoQuebrado 1451
+
+## Faltantes
+- FlyByNight 2047
+- ZeCoquinho 2075
+- ProdutosPorCategorias 2609
+- NenhumaLocacao 2616
